@@ -1,0 +1,2 @@
+model_checkpoint_path: "deeplob_attention"
+all_model_checkpoint_paths: "deeplob_attention"
